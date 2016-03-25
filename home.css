@@ -4,7 +4,26 @@
   padding: 0;
 }
 
+a
+{
+  font-family: 'Gill Sans', sans-serif;
+}
+
 .container
 {
-  width: 70%;
+  width: 75%;
+  border: 1px solid black;
+}
+
+.navbar
+{
+  height: 5rem;
+  background-color: #D8D8D8;
+}
+
+.logo
+{
+  background: url(../assets/logo.png) no-repeat;
+  background-size: contain;
+  height: 4rem;
 }
