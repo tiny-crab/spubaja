@@ -6,8 +6,7 @@
 
 .container
 {
-  width: 75%;
-  border: 1px solid black;
+  width: 80%;
 }
 
 .navbar
@@ -45,6 +44,7 @@
 .headline-container
 {
   height: 10rem;
+  /*background picture here*/
 }
 
 .headline
@@ -55,5 +55,23 @@
   opacity: .75;
   color: white;
   font-family: 'Gill Sans', sans-serif;
+  font-weight: lighter;
   text-align: center;
+}
+
+.group
+{
+  background-color: #D8D8D8;
+}
+
+.group > h2
+{
+  font-family: 'Gill Sans', sans-serif;
+  font-weight: lighter;
+  text-align: center;
+}
+
+.highlight
+{
+  color: #8A0C04;
 }
