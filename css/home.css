@@ -2,11 +2,12 @@
 {
   margin: 0;
   padding: 0;
+  text-align: center;
 }
 
 .container
 {
-  width: 80%;
+  width: 100%;
 }
 
 .navbar
