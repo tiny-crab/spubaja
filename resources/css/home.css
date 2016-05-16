@@ -1,0 +1,22 @@
+.navimg
+{
+  height: 3em;
+  width: auto;
+}
+
+.top
+{
+  /*background image not showing*/
+  background-image: url("../resources/img/drive.jpg");
+  background-size: cover;
+}
+
+.info
+{
+  background-color: #CCC:
+}
+
+.triple
+{
+  border: solid black 1px;
+}
