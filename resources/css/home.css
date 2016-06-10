@@ -3,10 +3,9 @@
   width: auto;
 }
 .jumbotron {
-  /*background image not showing*/
-  background-image: url("../img/comp1.png");
+  background-image: url("../img/drive.jpg");
   background-size: cover;
-  height: 60rem;
+  height: 50rem;
 }
 .info {
   background-color: #CCC:
