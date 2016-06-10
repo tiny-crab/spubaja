@@ -2,3 +2,18 @@
   height: 3em;
   width: auto;
 }
+
+h1, h2, h3, h4, li
+{
+  font-family: 'Gill Sans', sans-serif;
+}
+
+li
+{
+  font-size: 1.3em;
+}
+
+p
+{
+  font-family: 'Garamond', 'Georgia', serif;
+}

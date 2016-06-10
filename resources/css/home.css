@@ -4,8 +4,9 @@
 }
 .jumbotron {
   /*background image not showing*/
-  background-image: url("resources/img/drive.jpg");
+  background-image: url("../img/comp1.png");
   background-size: cover;
+  height: 60rem;
 }
 .info {
   background-color: #CCC:
